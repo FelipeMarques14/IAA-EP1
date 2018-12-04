@@ -4,7 +4,7 @@ package robo;
 /** ACH 2002 - Introducao à Análise de Algoritmos                   **/
 /** EACH-USP - Segundo Semestre de 2018                             **/
 /**                                                                 **/
-/** <Felipe Ribeiro de Campos Marques> <10856716>                   **/
+/** <Felipe Marques> <nUsp>                                         **/
 /**                                                                 **/
 /*********************************************************************/
 
